@@ -1,2 +1,10 @@
+.box{
+	width: 300px;
+	background-color:lightblue;
+	border:15px solid blue;
+	margin:20px;
+}
+.box p{
+	padding:50px;
+}
 
-/* Your CSS Code here. */
