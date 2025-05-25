@@ -1,10 +1,7 @@
-.box{
-	width: 300px;
-	background-color:lightblue;
-	border:15px solid blue;
-	margin:20px;
+.box {
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  margin: 20px;
+  padding: 50px;
 }
-.box p{
-	padding:50px;
-}
-
